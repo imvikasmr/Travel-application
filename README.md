@@ -16,7 +16,7 @@ A Java IDE (e.g., IntelliJ IDEA, Eclipse)
 Building
 Clone the repository:
 Copy code
-git clone https://github.com/your-username/travel-application.git
+git clone 
 Open the project in your Java IDE.
 Build and run the TravelApplication class.
 Usage Example
